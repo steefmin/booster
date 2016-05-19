@@ -1,0 +1,19 @@
+{
+  "name": "booster",
+  "version": "0.0.1",
+  "description": "Webtorrent booster and temporary storage server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steef Min",
+  "license": "ISC",
+  "repository": {
+	"type": "git",
+	"url": "https://github.com/steefmin/booster.git"
+  },
+  "dependencies": {
+    "webtorrent-hybrid": "^1.0.2",
+    "xvfb": "^0.2.3"
+  }
+}
