@@ -2,7 +2,7 @@ var sleep = require('sleep')
 var Xvfb = require('xvfb')
 var xvfb = new Xvfb()
 xvfb.startSync(function (err, xvfbProcess) {
-  if(err) {
+  if (err) {
     console.log(err)
   }
 })
