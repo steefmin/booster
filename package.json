@@ -9,10 +9,11 @@
   "author": "Steef Min",
   "license": "ISC",
   "repository": {
-	"type": "git",
-	"url": "https://github.com/steefmin/booster.git"
+    "type": "git",
+    "url": "https://github.com/steefmin/booster.git"
   },
   "dependencies": {
+    "sleep": "^3.0.1",
     "webtorrent-hybrid": "^1.0.2",
     "xvfb": "^0.2.3"
   }
